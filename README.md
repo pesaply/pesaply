@@ -9,8 +9,14 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 [website]: https://pesaply.com
-[twitter]: https://twitter.com/macfranci
 [linkedin]: https://linkedin.com/in/pesaply
+- 📫 How to reach me: [Linkedin](https://https://www.linkedin.com/in/mark-francis-b8b72662/)
+- ⚡ Fun fact: Am on Twitter 😄
+[twitter]: https://twitter.com/macfranci
+
+
+[![Linkedin: mark-francis-b8b72662](https://img.shields.io/badge/-vipul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-francis-b8b72662/)](https://www.linkedin.com/in/mark-francis-b8b72662/)
+[![GitHub pesaply](https://img.shields.io/github/followers/pesaply?label=follow&style=social)](https://github.com/pesaply)
 
 
 **Some technologies I use:**  
