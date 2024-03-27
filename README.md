@@ -2,7 +2,7 @@
 # Pesaply
 
 
-## I'm a CybSecurity , Software Engineer , Developer, and Teacher!
+## I'm a CybSecurity Reseacher , Software Engineer , Developer, and Teacher!
 - 🔭 I’m currently working on a report tcp
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
