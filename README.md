@@ -9,8 +9,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 [website]: https://botpesa.com
-[linkedin]: https://linkedin.com/in/pesaply
-- 📫 How to reach me: [Linkedin](https://https://www.linkedin.com/in/mark-francis-b8b72662/)
+
 - ⚡ Fun fact: Am on Twitter 😄
 [twitter]: https://twitter.com/macfranci
 
